@@ -1,0 +1,20 @@
+{
+        "folders":
+        [
+                {
+                        "follow_symlinks": true,
+                        "path": "."
+                }
+        ],
+
+    "settings":
+    {
+        "sublimeclang_options":
+        [
+            "-I/opt/libopencm3/include",
+            "-I${project_path}/include",
+            "-DSTM32F0",
+            "-DDEVICE=stm32f030c6t6"
+        ]
+    }
+}

@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dB",
+				"dBmV"
+			],
+			[
+				"TC",
+				"TCCR1A"
+			],
+			[
+				"s",
+				"stdin"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"exit",
+				"EXIT_FAILURE"
+			],
+			[
+				"t",
+				"t_dhcpdata"
+			],
+			[
+				"send",
+				"send_upgrade"
+			],
+			[
+				"re_cm",
+				"re_cm_ip"
+			],
+			[
+				"re_",
+				"re_swrev"
+			],
+			[
+				"str",
+				"str_src_data"
+			],
+			[
+				"in",
+				"infile"
+			],
+			[
+				"L",
+				"LOCK_FILE"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"sat",
+				"start_time_dc"
+			],
+			[
+				"start_time",
+				"start_time_m"
+			],
+			[
+				"sta",
+				"start_time_h"
+			],
+			[
+				"wzorze",
+				"wzorzec_mpl"
+			],
+			[
+				"LPC",
+				"LPC_SYSCON"
+			],
+			[
+				"print",
+				"printHelp"
+			],
+			[
+				"sear",
+				"search_string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 10687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stm32f0.sublime-project",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 79.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"avr",
+				"AVR: Create/Update Project"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 534.0,
+		"history":
+		[
+			"ignored_packages",
+			"sublime.log_commands(True)",
+			"    sublime.log_commands(True)",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/spock/chmura/elektronika/projekty/stacja_pogodowa_libopencm3/src/blink.cpp",
+		"/home/spock/chmura/elektronika/projekty/stacja_pogodowa_libopencm3/libopencm3.target.mk",
+		"/home/spock/chmura/elektronika/projekty/stacja_pogodowa_libopencm3/stm32f0.sublime-project",
+		"/home/spock/chmura/elektronika/atmel/usb_serial/example.c",
+		"/home/spock/chmura/elektronika/projekty/printer_f0/adc.c",
+		"/home/spock/chmura/e-work/usa/GLDS SPG API 2.03/IHSDSMSClient.wsdl",
+		"/home/spock/chmura/e-work/usa/GLDS SPG API 2.03/IHSDTPSClient_2.03.wsdl",
+		"/home/spock/chmura/elektronika/projekty/printer_f0/src/blink.cpp",
+		"/home/spock/chmura/elektronika/projekty/printer_f0/stm32f0.sublime-project",
+		"/tmp/am335xPruPackage_1_2_Manifest.pdf",
+		"/home/spock/chmura/elektronika/projekty/printer_f0/libopencm3/include/libopencm3/stm32/rcc.h",
+		"/home/spock/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/home/spock/devel/stm32f0/libopencm3/include/libopencm3/stm32/f0/adc.h",
+		"/home/spock/.config/sublime-text-3/Packages/User/SublimeAVR.sublime-settings",
+		"/home/spock/.config/sublime-text-3/Packages/AVR/gcc.py",
+		"/home/spock/.config/sublime-text-3/Packages/AVR/SublimeAVR.sublime-settings",
+		"/home/spock/devel/stm32f0/Makefile",
+		"/home/spock/devel/stm32f0/README",
+		"/home/spock/devel/stm32f0/adc.c",
+		"/home/spock/Netia/konfigi/POZNH002RT18.txt",
+		"/tmp/docsisCmTemplate20140408-2.txt",
+		"/tmp/501-ssd1289-plus-touchscreen-support-carambola-linux3.3.8.diff",
+		"/home/spock/devel/stm32f0/libopencm3/include/libopencm3/stm32/f0/memorymap.h",
+		"/home/spock/chmura/e-work/telkab/migracja_logcal2root.conf",
+		"/tmp/docsisMtaTemplate20140310-1.txt",
+		"/tmp/docsisMtaTemplate20140310.txt",
+		"/tmp/starcraft CDkey.txt",
+		"/home/spock/tmp/ds_conf.js",
+		"/home/spock/chmura/samochody/VAG-COM 409.1 Crack/VAG-COM 409.1 + Crack/How too fool Vag-com.txt",
+		"/home/spock/chmura/dropbox/pps/decodedb.py",
+		"/home/spock/chmura/samochody/fabia_zrzut_obd_09072012.txt",
+		"/home/spock/Netia/devel/zspmc/cmgencfg",
+		"/home/spock/chmura/projekty/atmega_rc/main.c",
+		"/home/spock/tmp/ApacheDirectoryStudio-linux-x86_64-2.0.0.v20130628/hs_err_pid10442.log",
+		"/tmp/gpio.h",
+		"/home/spock/Netia/devel/acs_mon/src/main.cpp",
+		"/tmp/format.txt",
+		"/home/spock/.openvpn/heimdal/client.ovpn",
+		"/home/spock/chmura/atmel/usb_serial/example.c",
+		"/home/spock/chmura/atmel/usb_serial/usb_serial.c",
+		"/home/spock/pynotifier.py",
+		"/home/spock/cmparams.py",
+		"/home/spock/chmura/samochody/fabia_20120825.txt",
+		"/home/spock/chmura/dropbox/algida.txt",
+		"/home/spock/chmura/dropbox/HDCP.txt",
+		"/home/spock/chmura/dropbox/google_default_mailapp.txt.txt",
+		"/home/spock/chmura/samochody/jarek.txt",
+		"/home/spock/hosts.txt",
+		"/home/spock/chmura/dropbox/pps/key.txt",
+		"/home/spock/chmura/dropbox/voip/46xxsettings.txt",
+		"/home/spock/chmura/dropbox/security/scapy-tutorial.txt",
+		"/home/spock/bin/unlock-keyring.py",
+		"/home/spock/chmura/projekty/mpl2srt/main.cpp",
+		"/home/spock/tmp/comp.c",
+		"/home/spock/tmp/compc",
+		"/home/spock/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/spock/chmura/projekty/mpl2srt/ValgrindOut.xml",
+		"/home/spock/chmura/projekty/mpl2srt-old/main.cpp",
+		"/home/spock/chmura/projekty/mpl2srt/doxygen/doxyfile",
+		"/home/spock/colours_theme.conf",
+		"/home/spock/lotto.js",
+		"/opt/craftbukkit/permissions.yml",
+		"/home/spock/chmura/elektronika/projekty/avr-template/src/main.c",
+		"/home/spock/warsc006hc01-conf.txt",
+		"/home/spock/tmp/fjump.c",
+		"/home/spock/chmura/e-work/telkab/mx480-raport.txt",
+		"/home/spock/devel/cm_upgrades/src/main.cpp",
+		"/home/spock/tmp/parser.js",
+		"/home/spock/devel/geniusbye/package.json",
+		"/home/spock/devel/geniusbye/lib/main.js",
+		"/home/spock/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/spock/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/spock/chmura/voip/Polycom_Sample_Applications/Polycom Sample Applications EULA.txt",
+		"/home/spock/tmp/roman.txt",
+		"/home/spock/tmp/mirek.txt",
+		"/tmp/notesFE0EF7/roman.txt",
+		"/home/spock/tmp/plik.test",
+		"/home/spock/devel/cm_upgrades/parser.js",
+		"/tmp/docsisCmTemplate20140317-3-1.txt",
+		"/home/spock/devel/cm_upgrades/src/test.py",
+		"/home/spock/.config/sublime-text-3/Packages/User/Nodejs.sublime-settings",
+		"/home/spock/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/opt/sublime_text/sublime_plugin.py",
+		"/home/spock/.config/sublime-text-3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/tmp/docsisCmTemplate20140317-3.txt",
+		"/home/spock/devel/cm_upgrades/etc/config.ini",
+		"/tmp/docsisCmTemplate20140317-2.txt",
+		"/home/spock/msp430-template/src/main.c",
+		"/home/spock/msp430-template/src/printf.c",
+		"/home/spock/devel/cm_upgrades/c_parser.cpp",
+		"/home/spock/chmura/voip/cisco7960.cnf.xml",
+		"/home/spock/sshjs.js",
+		"/home/spock/chmura/voip/moj_polycom.cfg",
+		"/tmp/0001-modem_if-Inject-and-intercept-RFS-I-O-messages-to-pe.patch",
+		"/home/spock/devel/acs_mon/src/main.cpp",
+		"/run/user/1000/gvfs/smb-share:server=172.16.1.150,share=internetia%20-%20jupiter/wiki_lotus.txt",
+		"/run/user/1000/gvfs/smb-share:server=172.16.1.150,share=internetia%20-%20jupiter/odczyty_howto.txt",
+		"/home/spock/devel/mpl2srt/src/mpl2srt.cpp",
+		"/home/spock/Netia/scripts/docsis.py",
+		"/home/spock/devel/mpl2srt/src/mpl2srt",
+		"/home/spock/spock.clj",
+		"/home/spock/Netia/scripts/3comsetup.py",
+		"/home/spock/Netia/scripts/cmparams.py",
+		"/home/spock/.minecraft/launcher_profiles.json",
+		"/home/spock/devel/acs_mon/src/demon.cpp",
+		"/home/spock/devel/acs_mon/CMakeLists.txt",
+		"/home/spock/devel/acs_mon/demon.cpp",
+		"/home/spock/devel/mpl2srt/src/CMakeLists.txt",
+		"/home/spock/devel/demon/demon.cpp",
+		"/home/spock/devel/demon/hello.c",
+		"/home/spock/devel/demon/demon.c",
+		"/home/spock/tmp/test.c",
+		"/home/spock/.config/sublime-text-3/Packages/HexViewer/Default (Linux).sublime-keymap",
+		"/home/spock/devel/mpl2srt/CMakeLists.txt",
+		"/home/spock/telefon/CB2 (openvpn).conf",
+		"/home/spock/mpl2srt.cpp",
+		"/home/spock/tmp/show-route.txt",
+		"/tmp/show-route.txt",
+		"/home/spock/.cache/.fr-s2oSqS/TECH-29012014/eMTA/TMM-EMTA-SIP-20130924_Update.mib",
+		"/home/spock/Netia/catv/cmts/bgp_warsc006hc01.txt",
+		"/home/spock/Netia/catv/cmts/sh_ip_route.txt",
+		"/tmp/sh_ip_route.txt",
+		"/tmp/bgp_warsc006hc01.txt",
+		"/home/spock/bin/remotedesktop",
+		"/home/spock/Netia/catv/cm/templates/mta_20140218_1.txt",
+		"/media/spock/HTC STORAGE/SMSBackupRestore/sms-20140218121832.xml",
+		"/media/spock/HTC STORAGE/SMSBackupRestore/sms.xsl",
+		"/tmp/tc7200wrong_sip.log"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ServiceList",
+			"ServiceIDlIST",
+			"SSET-NPU-0",
+			"vrf",
+			"XBOX",
+			"CGN-CENTRAL-VRF-IMPORT",
+			"sp-5",
+			"NAT-RULES-1",
+			"sp-5",
+			"sp-",
+			"interfaces",
+			"CGN-NETIA-SHARED",
+			"FW-NAT",
+			"interfaces",
+			"logical-systems R1",
+			"int",
+			"7",
+			"0",
+			"gigabitEthernet",
+			"\n    ",
+			"result",
+			"   ",
+			"  ",
+			"console",
+			"cm",
+			"printf",
+			"fd",
+			"include",
+			"    ",
+			"stoi(",
+			"wynik[1]",
+			"            ",
+			"C4# ",
+			"STRING: ",
+			"IF-MIB::ifDescr",
+			"        ",
+			"         ",
+			"        ",
+			"theme",
+			"254",
+			"250",
+			"100.64.10.250",
+			"100.64.10.241",
+			"241",
+			"242",
+			"2",
+			"87.204.224.197",
+			"serial_read",
+			"serial_write",
+			"fd",
+			"WARSH002",
+			"172.30.80.13",
+			"172.30.80.12",
+			"ip",
+			"ParseParamHex",
+			"192.168.100.1",
+			"default",
+			"mgmt",
+			"ospf",
+			"vrf",
+			"pickit_rules_end",
+			"8",
+			"13/20",
+			"8",
+			"14/20",
+			"14"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2447,
+								2447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stm32f0.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "stm32f0.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
